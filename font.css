@@ -1,11 +1,20 @@
+/** 
+ *
+ * Font Family: GFF Starexx
+ * License: Provided under the terms set by the author or font creator
+ *
+ * @license MIT
+ * @author Starexx
+ */
+
 @font-face {
     font-family: 'GFF Starexx';
-    src: url('https://raw.githubusercontent.com/starexxx/FFS/main/Fonts/GFF-Latin-Thin.eot');
+    src: url('https://cdn.jsdelivr.net/gh/starexxx/FFS@main/Fonts/GFF-Latin-Thin.eot');
     src: local('GFF Starexx Thin'), local('GFF-Latin-Thin'),
-        url('https://raw.githubusercontent.com/starexxx/FFS/main/Fonts/GFF-Latin-Thin.eot?#iefix') format('embedded-opentype'),
-        url('https://raw.githubusercontent.com/starexxx/FFS/main/Fonts/GFF-Latin-Thin.woff2') format('woff2'),
-        url('https://raw.githubusercontent.com/starexxx/FFS/main/Fonts/GFF-Latin-Thin.woff') format('woff'),
-        url('https://raw.githubusercontent.com/starexxx/FFS/main/Fonts/GFF-Latin-Thin.ttf') format('truetype');
+        url('https://cdn.jsdelivr.net/gh/starexxx/FFS@main/Fonts/GFF-Latin-Thin.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/starexxx/FFS@main/Fonts/GFF-Latin-Thin.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/starexxx/FFS@main/Fonts/GFF-Latin-Thin.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/starexxx/FFS@main/Fonts/GFF-Latin-Thin.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
@@ -13,25 +22,25 @@
 
 @font-face {
     font-family: 'GFF Starexx';
-    src: url('https://raw.githubusercontent.com/starexxx/FFS/main/Fonts/GFF-Latin-Bold.eot');
-    src: local('GFF Starexx Bold'), local('GFF-Latin-Bold'),
-        url('https://raw.githubusercontent.com/starexxx/FFS/main/Fonts/GFF-Latin-Bold.eot?#iefix') format('embedded-opentype'),
-        url('https://raw.githubusercontent.com/starexxx/FFS/main/Fonts/GFF-Latin-Bold.woff2') format('woff2'),
-        url('https://raw.githubusercontent.com/starexxx/FFS/main/Fonts/GFF-Latin-Bold.woff') format('woff'),
-        url('https://raw.githubusercontent.com/starexxx/FFS/main/Fonts/GFF-Latin-Bold.ttf') format('truetype');
-    font-weight: bold;
-    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/starexxx/FFS@main/Fonts/GFF-Latin-Thin.eot');
+    src: local('GFF Starexx Thin Italic'), local('GFF-Latin-Thin'),
+        url('https://cdn.jsdelivr.net/gh/starexxx/FFS@main/Fonts/GFF-Latin-Thin.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/starexxx/FFS@main/Fonts/GFF-Latin-Thin.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/starexxx/FFS@main/Fonts/GFF-Latin-Thin.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/starexxx/FFS@main/Fonts/GFF-Latin-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'GFF Starexx';
-    src: url('https://raw.githubusercontent.com/starexxx/FFS/main/Fonts/GFF-Latin-Regular.eot');
+    src: url('https://cdn.jsdelivr.net/gh/starexxx/FFS@main/Fonts/GFF-Latin-Regular.eot');
     src: local('GFF Starexx Regular'), local('GFF-Latin-Regular'),
-        url('https://raw.githubusercontent.com/starexxx/FFS/main/Fonts/GFF-Latin-Regular.eot?#iefix') format('embedded-opentype'),
-        url('https://raw.githubusercontent.com/starexxx/FFS/main/Fonts/GFF-Latin-Regular.woff2') format('woff2'),
-        url('https://raw.githubusercontent.com/starexxx/FFS/main/Fonts/GFF-Latin-Regular.woff') format('woff'),
-        url('https://raw.githubusercontent.com/starexxx/FFS/main/Fonts/GFF-Latin-Regular.ttf') format('truetype');
+        url('https://cdn.jsdelivr.net/gh/starexxx/FFS@main/Fonts/GFF-Latin-Regular.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/starexxx/FFS@main/Fonts/GFF-Latin-Regular.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/starexxx/FFS@main/Fonts/GFF-Latin-Regular.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/starexxx/FFS@main/Fonts/GFF-Latin-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -39,13 +48,26 @@
 
 @font-face {
     font-family: 'GFF Starexx';
-    src: url('https://raw.githubusercontent.com/starexxx/FFS/main/Fonts/GFF-Latin-Medium.eot');
+    src: url('https://cdn.jsdelivr.net/gh/starexxx/FFS@main/Fonts/GFF-Latin-Medium.eot');
     src: local('GFF Starexx Medium'), local('GFF-Latin-Medium'),
-        url('https://raw.githubusercontent.com/starexxx/FFS/main/Fonts/GFF-Latin-Medium.eot?#iefix') format('embedded-opentype'),
-        url('https://raw.githubusercontent.com/starexxx/FFS/main/Fonts/GFF-Latin-Medium.woff2') format('woff2'),
-        url('https://raw.githubusercontent.com/starexxx/FFS/main/Fonts/GFF-Latin-Medium.woff') format('woff'),
-        url('https://raw.githubusercontent.com/starexxx/FFS/main/Fonts/GFF-Latin-Medium.ttf') format('truetype');
+        url('https://cdn.jsdelivr.net/gh/starexxx/FFS@main/Fonts/GFF-Latin-Medium.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/starexxx/FFS@main/Fonts/GFF-Latin-Medium.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/starexxx/FFS@main/Fonts/GFF-Latin-Medium.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/starexxx/FFS@main/Fonts/GFF-Latin-Medium.ttf') format('truetype');
     font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GFF Starexx';
+    src: url('https://cdn.jsdelivr.net/gh/starexxx/FFS@main/Fonts/GFF-Latin-Bold.eot');
+    src: local('GFF Starexx Bold'), local('GFF-Latin-Bold'),
+        url('https://cdn.jsdelivr.net/gh/starexxx/FFS@main/Fonts/GFF-Latin-Bold.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/starexxx/FFS@main/Fonts/GFF-Latin-Bold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/starexxx/FFS@main/Fonts/GFF-Latin-Bold.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/starexxx/FFS@main/Fonts/GFF-Latin-Bold.ttf') format('truetype');
+    font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
